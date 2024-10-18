@@ -1,0 +1,34 @@
+ <html>
+  <head>
+    <title>ホーム|やまいブログ</title>
+     <link href="./website01.css" rel="stylesheet" type="text/css" media="all"/>
+   </head>
+   
+   <body>
+     <div id="blog-title">
+       <h1 id="title">やまいのブログ</h1>
+     </div>
+     <div id="table-contents">
+         <ul>
+           <li><a href="./home.html">ホーム</a></li>
+           <li><a href="./introduction.html">自己紹介</a></li>
+           <li><a href="UsefulInfomation.html">お役立ち情報</a></li>
+         </ul>
+     </div>
+     <div id="content">
+       <p>色んな情報を書いていく予定だからよろしくね<br/>
+         やまいは主にTwitterで活動してるよ。ぜひフォローしてね</p>
+       <p><a href="https://twitter.com/yamai_22">＠やまいのツイッター</a></p>
+          <img src="./やまいアイコン.jpg" width="100" height="100" alt="やまいのアイコン"/>
+          ※このアイコンはﾌﾘｰｱｲｺﾝ屋さん作です
+       <p>ﾌﾘｰｱｲｺﾝ屋さんのツイートはこちら↓<br/>
+          <a href="https://twitter.com/npi__iii/status/1317355026583416832?s=20&t=QW49ZJ5TAZ1028k0cQzIrQ">ハロウィンアイコン</a><br/>
+          ﾌﾘｰｱｲｺﾝ屋さんのTwitterアカウントはこちら↓<br/>
+          <a href="https://twitter.com/npi__iii">＠ﾌﾘｰｱｲｺﾝ屋さん</a></p>
+       <h2>プロフィール</h2><br/>
+         静岡大学情報学部情報科学科1年生<br/>
+         愛知県の西三河出身<br/>
+         自分のパソコンを大学入って初めて持ったのでそういう知識ほぼ0だけど頑張ります。</p>
+     </div>
+   <body>
+ <html>
